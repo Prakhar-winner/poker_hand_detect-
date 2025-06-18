@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 18 10:38:17 2025
+
+@author: prakh
+"""
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PRO.iml" filepath="$PROJECT_DIR$/.idea/PRO.iml" />
+    </modules>
+  </component>
+</project>
